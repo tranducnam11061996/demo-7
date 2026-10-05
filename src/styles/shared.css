@@ -1,0 +1,47 @@
+@layer components {
+  .hacom-container { width: calc(100% - 32px); max-width: 1600px; margin-inline: auto; }
+  @media (min-width:768px) { .hacom-container { width: calc(100% - 48px); } }
+  @media (min-width:1920px) { .hacom-container { width: calc(100% - 80px); max-width:1800px; } }
+  .fa-crown::before { content: "\f521"; }
+  .fa-phone-volume::before { content: "\f2a0"; }
+  .fa-file-lines::before { content: "\f15c"; }
+  .fa-magnifying-glass::before { content: "\f002"; }
+  .fa-camera::before { content: "\f030"; }
+  .fa-heart::before { content: "\f004"; }
+  .fa-scale-balanced::before { content: "\f24e"; }
+  .fa-bars::before { content: "\f0c9"; }
+  .fa-fire::before { content: "\f06d"; }
+  .fa-microchip::before { content: "\f2db"; }
+  .fa-gamepad::before { content: "\f11b"; }
+  .fa-laptop::before { content: "\f109"; }
+  .fa-display::before { content: "\e163"; }
+  .fa-building::before { content: "\f1ad"; }
+  .fa-certificate::before { content: "\f0a3"; }
+  .fa-percent::before { content: "\f295"; }
+  .fa-apple-whole::before { content: "\f5d1"; }
+  .fa-desktop::before { content: "\f390"; }
+  .fa-computer-mouse::before { content: "\f8cc"; }
+  .fa-fan::before { content: "\f863"; }
+  .fa-volume-high::before { content: "\f028"; }
+  .fa-print::before { content: "\f02f"; }
+  .fa-cash-register::before { content: "\f788"; }
+  .fa-wifi::before { content: "\f1eb"; }
+  .fa-house::before { content: "\f015"; }
+  .fa-puzzle-piece::before { content: "\f12e"; }
+  .fa-gift::before { content: "\f06b"; }
+  .fa-cubes-stacked::before { content: "\e4e6"; }
+  .fa-battery-full::before { content: "\f240"; }
+  .fa-bolt::before { content: "\f0e7"; }
+  .fa-circle-check::before { content: "\f058"; }
+  .fa-truck-fast::before { content: "\f48b"; }
+  .fa-eye::before { content: "\f06e"; }
+  .fa-play::before { content: "\f04b"; }
+  .fa-user-group::before { content: "\f500"; }
+  .fa-graduation-cap::before { content: "\f19d"; }
+  .fa-leaf::before { content: "\f06c"; }
+  .fa-plus::before { content: "\f067"; }
+  .fa-globe::before { content: "\f0ac"; }
+  .fa-chevron-left::before { content: "\f053"; }
+  .fa-envelope::before { content: "\f0e0"; }
+  .fa-clock::before { content: "\f017"; }
+}

@@ -1,0 +1,6362 @@
+[
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-hero-artwork.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      480,
+      17,
+      1163,
+      377
+    ],
+    "size": [
+      683,
+      360
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-1.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1199,
+      222,
+      1282,
+      303
+    ],
+    "size": [
+      83,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-2.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1300,
+      222,
+      1382,
+      303
+    ],
+    "size": [
+      82,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-3.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1400,
+      222,
+      1483,
+      303
+    ],
+    "size": [
+      83,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-4.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1501,
+      222,
+      1584,
+      303
+    ],
+    "size": [
+      83,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-5.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1602,
+      222,
+      1684,
+      303
+    ],
+    "size": [
+      82,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-6.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1702,
+      222,
+      1785,
+      303
+    ],
+    "size": [
+      83,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-7.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1803,
+      222,
+      1885,
+      303
+    ],
+    "size": [
+      82,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-category-8.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1903,
+      222,
+      1986,
+      303
+    ],
+    "size": [
+      83,
+      81
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-1.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      128,
+      454,
+      277,
+      540
+    ],
+    "size": [
+      149,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        45,
+        419,
+        154,
+        480
+      ],
+      [
+        332,
+        419,
+        367,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-2.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      465,
+      454,
+      612,
+      540
+    ],
+    "size": [
+      147,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        378,
+        419,
+        487,
+        480
+      ],
+      [
+        665,
+        419,
+        700,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-3.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      793,
+      456,
+      941,
+      540
+    ],
+    "size": [
+      148,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        711,
+        419,
+        820,
+        480
+      ],
+      [
+        998,
+        419,
+        1033,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-4.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1112,
+      454,
+      1255,
+      540
+    ],
+    "size": [
+      143,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1044,
+        419,
+        1153,
+        480
+      ],
+      [
+        1331,
+        419,
+        1366,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-5.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1425,
+      454,
+      1590,
+      540
+    ],
+    "size": [
+      165,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1377,
+        419,
+        1486,
+        480
+      ],
+      [
+        1664,
+        419,
+        1699,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 5,
+    "asset": "assets/images/sections/s5-product-6.webp",
+    "source": "design/section-5.png",
+    "crop": [
+      1764,
+      454,
+      1928,
+      540
+    ],
+    "size": [
+      164,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1710,
+        419,
+        1819,
+        480
+      ],
+      [
+        1997,
+        419,
+        2032,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-hero-artwork.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      505,
+      20,
+      1162,
+      389
+    ],
+    "size": [
+      657,
+      369
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-1.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1199,
+      219,
+      1282,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-2.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1300,
+      219,
+      1382,
+      290
+    ],
+    "size": [
+      82,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-3.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1400,
+      219,
+      1483,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-4.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1501,
+      219,
+      1584,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-5.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1602,
+      219,
+      1685,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-6.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1703,
+      219,
+      1786,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-7.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1804,
+      219,
+      1886,
+      290
+    ],
+    "size": [
+      82,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-category-8.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1904,
+      219,
+      1987,
+      290
+    ],
+    "size": [
+      83,
+      71
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-1.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      161,
+      460,
+      247,
+      542
+    ],
+    "size": [
+      86,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        425,
+        155,
+        478
+      ],
+      [
+        332,
+        425,
+        367,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-2.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      490,
+      460,
+      577,
+      542
+    ],
+    "size": [
+      87,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        378,
+        425,
+        487,
+        478
+      ],
+      [
+        664,
+        425,
+        699,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-3.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      817,
+      460,
+      908,
+      542
+    ],
+    "size": [
+      91,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        710,
+        425,
+        819,
+        478
+      ],
+      [
+        996,
+        425,
+        1031,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-4.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1138,
+      460,
+      1227,
+      542
+    ],
+    "size": [
+      89,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1042,
+        425,
+        1151,
+        478
+      ],
+      [
+        1328,
+        425,
+        1363,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-5.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1446,
+      473,
+      1563,
+      536
+    ],
+    "size": [
+      117,
+      63
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1374,
+        425,
+        1483,
+        478
+      ],
+      [
+        1660,
+        425,
+        1695,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 6,
+    "asset": "assets/images/sections/s6-product-6.webp",
+    "source": "design/section-6.png",
+    "crop": [
+      1783,
+      460,
+      1902,
+      542
+    ],
+    "size": [
+      119,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1706,
+        425,
+        1815,
+        478
+      ],
+      [
+        1992,
+        425,
+        2027,
+        482
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-hero-artwork.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      465,
+      22,
+      1185,
+      400
+    ],
+    "size": [
+      720,
+      378
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-1.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1209,
+      159,
+      1290,
+      234
+    ],
+    "size": [
+      81,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-2.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1308,
+      159,
+      1390,
+      234
+    ],
+    "size": [
+      82,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-3.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1408,
+      159,
+      1489,
+      234
+    ],
+    "size": [
+      81,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-4.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1507,
+      159,
+      1588,
+      234
+    ],
+    "size": [
+      81,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-5.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1606,
+      159,
+      1688,
+      234
+    ],
+    "size": [
+      82,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-6.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1706,
+      159,
+      1787,
+      234
+    ],
+    "size": [
+      81,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-7.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1805,
+      159,
+      1887,
+      234
+    ],
+    "size": [
+      82,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-category-8.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1905,
+      159,
+      1986,
+      234
+    ],
+    "size": [
+      81,
+      75
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-1.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      53,
+      474,
+      212,
+      560
+    ],
+    "size": [
+      159,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        439,
+        146,
+        494
+      ],
+      [
+        245,
+        439,
+        280,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-2.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      364,
+      474,
+      462,
+      560
+    ],
+    "size": [
+      98,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        291,
+        439,
+        391,
+        494
+      ],
+      [
+        490,
+        439,
+        525,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-3.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      594,
+      474,
+      730,
+      560
+    ],
+    "size": [
+      136,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        536,
+        439,
+        636,
+        494
+      ],
+      [
+        735,
+        439,
+        770,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-4.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      833,
+      480,
+      978,
+      560
+    ],
+    "size": [
+      145,
+      80
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        781,
+        439,
+        881,
+        494
+      ],
+      [
+        980,
+        439,
+        1015,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-5.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1078,
+      490,
+      1211,
+      557
+    ],
+    "size": [
+      133,
+      67
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1026,
+        439,
+        1126,
+        494
+      ],
+      [
+        1225,
+        439,
+        1260,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-6.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1334,
+      475,
+      1447,
+      560
+    ],
+    "size": [
+      113,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1271,
+        439,
+        1371,
+        494
+      ],
+      [
+        1470,
+        439,
+        1505,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-7.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1600,
+      474,
+      1673,
+      560
+    ],
+    "size": [
+      73,
+      86
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1516,
+        439,
+        1616,
+        494
+      ],
+      [
+        1715,
+        439,
+        1750,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 8,
+    "asset": "assets/images/sections/s8-product-8.webp",
+    "source": "design/section-8.png",
+    "crop": [
+      1804,
+      497,
+      1958,
+      557
+    ],
+    "size": [
+      154,
+      60
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1761,
+        439,
+        1861,
+        494
+      ],
+      [
+        1960,
+        439,
+        1995,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-hero-artwork.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      430,
+      0,
+      1016,
+      390
+    ],
+    "size": [
+      586,
+      390
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-oled.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1610,
+      94,
+      1800,
+      339
+    ],
+    "size": [
+      190,
+      245
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-1.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1060,
+      116,
+      1149,
+      170
+    ],
+    "size": [
+      89,
+      54
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-2.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1202,
+      113,
+      1270,
+      178
+    ],
+    "size": [
+      68,
+      65
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-3.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1328,
+      119,
+      1432,
+      175
+    ],
+    "size": [
+      104,
+      56
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-4.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1479,
+      115,
+      1552,
+      181
+    ],
+    "size": [
+      73,
+      66
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-5.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1060,
+      260,
+      1148,
+      301
+    ],
+    "size": [
+      88,
+      41
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-7.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1357,
+      260,
+      1439,
+      302
+    ],
+    "size": [
+      82,
+      42
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-monitor-brand-8.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1452,
+      260,
+      1570,
+      305
+    ],
+    "size": [
+      118,
+      45
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-1.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      151,
+      456,
+      260,
+      549
+    ],
+    "size": [
+      109,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        84,
+        421,
+        164,
+        478
+      ],
+      [
+        308,
+        421,
+        343,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-2.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      426,
+      456,
+      539,
+      549
+    ],
+    "size": [
+      113,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        354,
+        421,
+        434,
+        478
+      ],
+      [
+        578,
+        421,
+        613,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-3.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      697,
+      456,
+      813,
+      549
+    ],
+    "size": [
+      116,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        624,
+        421,
+        704,
+        478
+      ],
+      [
+        848,
+        421,
+        883,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-4.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      963,
+      456,
+      1080,
+      549
+    ],
+    "size": [
+      117,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        894,
+        421,
+        974,
+        478
+      ],
+      [
+        1118,
+        421,
+        1153,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-5.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1229,
+      456,
+      1347,
+      549
+    ],
+    "size": [
+      118,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1164,
+        421,
+        1244,
+        478
+      ],
+      [
+        1388,
+        421,
+        1423,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-6.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1505,
+      456,
+      1621,
+      549
+    ],
+    "size": [
+      116,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1434,
+        421,
+        1514,
+        478
+      ],
+      [
+        1658,
+        421,
+        1693,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 9,
+    "asset": "assets/images/sections/s9-product-7.webp",
+    "source": "design/section-9.png",
+    "crop": [
+      1780,
+      456,
+      1893,
+      549
+    ],
+    "size": [
+      113,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1704,
+        421,
+        1784,
+        478
+      ],
+      [
+        1928,
+        421,
+        1963,
+        478
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-hero-artwork.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      495,
+      16,
+      1260,
+      395
+    ],
+    "size": [
+      765,
+      379
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-1.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1283,
+      219,
+      1445,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-2.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1463,
+      219,
+      1625,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-3.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1643,
+      219,
+      1805,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-4.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1823,
+      219,
+      1985,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-1.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1303,
+      40,
+      1344,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-2.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1394,
+      40,
+      1435,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-3.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1485,
+      40,
+      1526,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-4.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1576,
+      40,
+      1617,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-5.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1667,
+      40,
+      1708,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-6.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1758,
+      40,
+      1799,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-7.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1849,
+      40,
+      1890,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-platform-8.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1940,
+      40,
+      1981,
+      76
+    ],
+    "size": [
+      41,
+      36
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-1.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1283,
+      219,
+      1445,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-2.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1463,
+      219,
+      1625,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-3.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1643,
+      219,
+      1805,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-category-4.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1823,
+      219,
+      1985,
+      309
+    ],
+    "size": [
+      162,
+      90
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-1.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      132,
+      471,
+      175,
+      556
+    ],
+    "size": [
+      43,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        436,
+        147,
+        492
+      ],
+      [
+        245,
+        436,
+        280,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-2.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      385,
+      471,
+      441,
+      556
+    ],
+    "size": [
+      56,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        291,
+        436,
+        392,
+        492
+      ],
+      [
+        490,
+        436,
+        525,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-3.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      605,
+      471,
+      710,
+      553
+    ],
+    "size": [
+      105,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        536,
+        436,
+        637,
+        492
+      ],
+      [
+        735,
+        436,
+        770,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-4.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      833,
+      480,
+      962,
+      550
+    ],
+    "size": [
+      129,
+      70
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        781,
+        436,
+        882,
+        492
+      ],
+      [
+        980,
+        436,
+        1015,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-5.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1080,
+      484,
+      1214,
+      547
+    ],
+    "size": [
+      134,
+      63
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1026,
+        436,
+        1127,
+        492
+      ],
+      [
+        1225,
+        436,
+        1260,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-6.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1307,
+      471,
+      1461,
+      554
+    ],
+    "size": [
+      154,
+      83
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1271,
+        436,
+        1372,
+        492
+      ],
+      [
+        1470,
+        436,
+        1505,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-7.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1578,
+      480,
+      1697,
+      550
+    ],
+    "size": [
+      119,
+      70
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1516,
+        436,
+        1617,
+        492
+      ],
+      [
+        1715,
+        436,
+        1750,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 10,
+    "asset": "assets/images/sections/s10-product-8.webp",
+    "source": "design/section-10.png",
+    "crop": [
+      1841,
+      471,
+      1921,
+      556
+    ],
+    "size": [
+      80,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1761,
+        436,
+        1862,
+        492
+      ],
+      [
+        1960,
+        436,
+        1995,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-hero-artwork.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      490,
+      18,
+      1200,
+      395
+    ],
+    "size": [
+      710,
+      377
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-1.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1230,
+      234,
+      1309,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-2.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1327,
+      234,
+      1406,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-3.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1424,
+      234,
+      1503,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-4.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1521,
+      234,
+      1600,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-5.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1618,
+      234,
+      1696,
+      307
+    ],
+    "size": [
+      78,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-6.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1714,
+      234,
+      1793,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-7.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1811,
+      234,
+      1890,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-category-8.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1908,
+      234,
+      1987,
+      307
+    ],
+    "size": [
+      79,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-1.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      140,
+      474,
+      191,
+      559
+    ],
+    "size": [
+      51,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        439,
+        153,
+        495
+      ],
+      [
+        280,
+        439,
+        315,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-2.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      381,
+      490,
+      503,
+      550
+    ],
+    "size": [
+      122,
+      60
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        326,
+        439,
+        433,
+        495
+      ],
+      [
+        560,
+        439,
+        595,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-3.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      678,
+      474,
+      741,
+      559
+    ],
+    "size": [
+      63,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        606,
+        439,
+        713,
+        495
+      ],
+      [
+        840,
+        439,
+        875,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-4.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      951,
+      481,
+      1086,
+      552
+    ],
+    "size": [
+      135,
+      71
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        886,
+        439,
+        993,
+        495
+      ],
+      [
+        1120,
+        439,
+        1155,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-5.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1284,
+      474,
+      1340,
+      559
+    ],
+    "size": [
+      56,
+      85
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1166,
+        439,
+        1273,
+        495
+      ],
+      [
+        1400,
+        439,
+        1435,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-6.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1530,
+      482,
+      1662,
+      559
+    ],
+    "size": [
+      132,
+      77
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1446,
+        439,
+        1553,
+        495
+      ],
+      [
+        1680,
+        439,
+        1715,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 11,
+    "asset": "assets/images/sections/s11-product-7.webp",
+    "source": "design/section-11.png",
+    "crop": [
+      1815,
+      476,
+      1920,
+      559
+    ],
+    "size": [
+      105,
+      83
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1726,
+        439,
+        1833,
+        495
+      ],
+      [
+        1960,
+        439,
+        1995,
+        496
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-hero-artwork.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      490,
+      18,
+      1176,
+      394
+    ],
+    "size": [
+      686,
+      376
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-1.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1204,
+      229,
+      1286,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-2.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1304,
+      229,
+      1386,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-3.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1404,
+      229,
+      1487,
+      302
+    ],
+    "size": [
+      83,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-4.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1505,
+      229,
+      1587,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-5.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1605,
+      229,
+      1687,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-6.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1705,
+      229,
+      1788,
+      302
+    ],
+    "size": [
+      83,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-7.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1806,
+      229,
+      1888,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-category-8.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1906,
+      229,
+      1988,
+      302
+    ],
+    "size": [
+      82,
+      73
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-1.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      53,
+      470,
+      236,
+      550
+    ],
+    "size": [
+      183,
+      80
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        435,
+        155,
+        491
+      ],
+      [
+        283,
+        435,
+        318,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-2.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      336,
+      470,
+      380,
+      496
+    ],
+    "size": [
+      44,
+      26
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        329,
+        435,
+        438,
+        491
+      ],
+      [
+        566,
+        435,
+        601,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-3.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      675,
+      471,
+      777,
+      549
+    ],
+    "size": [
+      102,
+      78
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        612,
+        435,
+        721,
+        491
+      ],
+      [
+        849,
+        435,
+        884,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-4.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      933,
+      500,
+      1105,
+      537
+    ],
+    "size": [
+      172,
+      37
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        895,
+        435,
+        1004,
+        491
+      ],
+      [
+        1132,
+        435,
+        1167,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-5.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1270,
+      470,
+      1333,
+      550
+    ],
+    "size": [
+      63,
+      80
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1178,
+        435,
+        1287,
+        491
+      ],
+      [
+        1415,
+        435,
+        1450,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-6.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1534,
+      470,
+      1633,
+      552
+    ],
+    "size": [
+      99,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1461,
+        435,
+        1570,
+        491
+      ],
+      [
+        1698,
+        435,
+        1733,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 12,
+    "asset": "assets/images/sections/s12-product-7.webp",
+    "source": "design/section-12.png",
+    "crop": [
+      1841,
+      470,
+      1909,
+      550
+    ],
+    "size": [
+      68,
+      80
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1744,
+        435,
+        1853,
+        491
+      ],
+      [
+        1981,
+        435,
+        2016,
+        492
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-hero-artwork.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      562,
+      18,
+      1218,
+      395
+    ],
+    "size": [
+      656,
+      377
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-1.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1245,
+      233,
+      1322,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-2.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1340,
+      233,
+      1417,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-3.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1435,
+      233,
+      1512,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-4.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1530,
+      233,
+      1606,
+      297
+    ],
+    "size": [
+      76,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-5.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1624,
+      233,
+      1701,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-6.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1719,
+      233,
+      1796,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-7.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1814,
+      233,
+      1891,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-category-8.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1909,
+      233,
+      1986,
+      297
+    ],
+    "size": [
+      77,
+      64
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-1.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      53,
+      471,
+      148,
+      500
+    ],
+    "size": [
+      95,
+      29
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        436,
+        155,
+        494
+      ],
+      [
+        282,
+        436,
+        317,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-2.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      389,
+      477,
+      510,
+      552
+    ],
+    "size": [
+      121,
+      75
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        328,
+        436,
+        437,
+        494
+      ],
+      [
+        564,
+        436,
+        599,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-3.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      684,
+      477,
+      783,
+      552
+    ],
+    "size": [
+      99,
+      75
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        610,
+        436,
+        719,
+        494
+      ],
+      [
+        846,
+        436,
+        881,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-4.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      950,
+      487,
+      1085,
+      541
+    ],
+    "size": [
+      135,
+      54
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        892,
+        436,
+        1001,
+        494
+      ],
+      [
+        1128,
+        436,
+        1163,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-5.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1221,
+      509,
+      1393,
+      546
+    ],
+    "size": [
+      172,
+      37
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1174,
+        436,
+        1283,
+        494
+      ],
+      [
+        1410,
+        436,
+        1445,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-6.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1543,
+      475,
+      1649,
+      552
+    ],
+    "size": [
+      106,
+      77
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1456,
+        436,
+        1565,
+        494
+      ],
+      [
+        1692,
+        436,
+        1727,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 13,
+    "asset": "assets/images/sections/s13-product-7.webp",
+    "source": "design/section-13.png",
+    "crop": [
+      1837,
+      471,
+      1908,
+      552
+    ],
+    "size": [
+      71,
+      81
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1738,
+        436,
+        1847,
+        494
+      ],
+      [
+        1974,
+        436,
+        2009,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-hero-artwork.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      538,
+      0,
+      1270,
+      380
+    ],
+    "size": [
+      732,
+      380
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-1.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1300,
+      77,
+      1438,
+      149
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-2.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1481,
+      77,
+      1619,
+      149
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-3.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1662,
+      77,
+      1800,
+      149
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-4.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1843,
+      77,
+      1981,
+      149
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-5.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1300,
+      216,
+      1438,
+      288
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-6.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1481,
+      216,
+      1619,
+      288
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-7.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1662,
+      216,
+      1800,
+      288
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-solution-8.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1843,
+      216,
+      1981,
+      288
+    ],
+    "size": [
+      138,
+      72
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-1.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      202,
+      447,
+      246,
+      509
+    ],
+    "size": [
+      44,
+      62
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        66,
+        419,
+        158,
+        471
+      ],
+      [
+        348,
+        419,
+        383,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-2.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      491,
+      447,
+      535,
+      499
+    ],
+    "size": [
+      44,
+      52
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        394,
+        419,
+        486,
+        471
+      ],
+      [
+        676,
+        419,
+        711,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-3.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      783,
+      468,
+      867,
+      536
+    ],
+    "size": [
+      84,
+      68
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        722,
+        419,
+        814,
+        471
+      ],
+      [
+        1004,
+        419,
+        1039,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-4.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1099,
+      447,
+      1196,
+      539
+    ],
+    "size": [
+      97,
+      92
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1050,
+        419,
+        1142,
+        471
+      ],
+      [
+        1332,
+        419,
+        1367,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-5.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1449,
+      448,
+      1505,
+      541
+    ],
+    "size": [
+      56,
+      93
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1378,
+        419,
+        1470,
+        471
+      ],
+      [
+        1660,
+        419,
+        1695,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 14,
+    "asset": "assets/images/sections/s14-product-6.webp",
+    "source": "design/section-14.png",
+    "crop": [
+      1767,
+      447,
+      1861,
+      511
+    ],
+    "size": [
+      94,
+      64
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1706,
+        419,
+        1798,
+        471
+      ],
+      [
+        1988,
+        419,
+        2023,
+        476
+      ]
+    ]
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-hero-artwork.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      575,
+      18,
+      1168,
+      414
+    ],
+    "size": [
+      593,
+      396
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-1.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      63,
+      495,
+      153,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-2.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      391,
+      495,
+      481,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-3.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      719,
+      495,
+      809,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-4.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      1047,
+      495,
+      1137,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-5.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      1375,
+      495,
+      1465,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 15,
+    "asset": "assets/images/sections/s15-product-6.webp",
+    "source": "design/section-15.png",
+    "crop": [
+      1703,
+      495,
+      1793,
+      614
+    ],
+    "size": [
+      90,
+      119
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-hero-artwork.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      570,
+      18,
+      1159,
+      395
+    ],
+    "size": [
+      589,
+      377
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-1.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1195,
+      234,
+      1258,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-2.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1276,
+      234,
+      1339,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-3.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1357,
+      234,
+      1421,
+      302
+    ],
+    "size": [
+      64,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-4.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1439,
+      234,
+      1502,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-5.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1520,
+      234,
+      1583,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-6.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1601,
+      234,
+      1664,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-7.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1682,
+      234,
+      1745,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-8.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1763,
+      234,
+      1827,
+      302
+    ],
+    "size": [
+      64,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-9.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1845,
+      234,
+      1908,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-category-10.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1926,
+      234,
+      1989,
+      302
+    ],
+    "size": [
+      63,
+      68
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-1.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      140,
+      471,
+      213,
+      552
+    ],
+    "size": [
+      73,
+      81
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        436,
+        153,
+        494
+      ],
+      [
+        282,
+        436,
+        317,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-2.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      379,
+      471,
+      521,
+      553
+    ],
+    "size": [
+      142,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        328,
+        436,
+        435,
+        494
+      ],
+      [
+        564,
+        436,
+        599,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-3.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      710,
+      471,
+      761,
+      553
+    ],
+    "size": [
+      51,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        610,
+        436,
+        717,
+        494
+      ],
+      [
+        846,
+        436,
+        881,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-4.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      953,
+      476,
+      1101,
+      548
+    ],
+    "size": [
+      148,
+      72
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        892,
+        436,
+        999,
+        494
+      ],
+      [
+        1128,
+        436,
+        1163,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-5.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1265,
+      481,
+      1362,
+      547
+    ],
+    "size": [
+      97,
+      66
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1174,
+        436,
+        1281,
+        494
+      ],
+      [
+        1410,
+        436,
+        1445,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-6.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1571,
+      471,
+      1616,
+      553
+    ],
+    "size": [
+      45,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1456,
+        436,
+        1563,
+        494
+      ],
+      [
+        1692,
+        436,
+        1727,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 16,
+    "asset": "assets/images/sections/s16-product-7.webp",
+    "source": "design/section-16.png",
+    "crop": [
+      1834,
+      471,
+      1904,
+      553
+    ],
+    "size": [
+      70,
+      82
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1738,
+        436,
+        1845,
+        494
+      ],
+      [
+        1974,
+        436,
+        2009,
+        493
+      ]
+    ]
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-hero-artwork.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      552,
+      18,
+      1170,
+      399
+    ],
+    "size": [
+      618,
+      381
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-1.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      66,
+      476,
+      240,
+      561
+    ],
+    "size": [
+      174,
+      85
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-2.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      339,
+      476,
+      506,
+      561
+    ],
+    "size": [
+      167,
+      85
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-3.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      637,
+      481,
+      785,
+      559
+    ],
+    "size": [
+      148,
+      78
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-4.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      919,
+      476,
+      1066,
+      561
+    ],
+    "size": [
+      147,
+      85
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-5.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      1187,
+      476,
+      1369,
+      561
+    ],
+    "size": [
+      182,
+      85
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-6.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      1572,
+      519,
+      1606,
+      551
+    ],
+    "size": [
+      34,
+      32
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 17,
+    "asset": "assets/images/sections/s17-product-7.webp",
+    "source": "design/section-17.png",
+    "crop": [
+      1754,
+      484,
+      1873,
+      561
+    ],
+    "size": [
+      119,
+      77
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-hero-artwork.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      615,
+      18,
+      1218,
+      412
+    ],
+    "size": [
+      603,
+      394
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-1.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      53,
+      488,
+      263,
+      572
+    ],
+    "size": [
+      210,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        46,
+        453,
+        182,
+        510
+      ],
+      [
+        330,
+        453,
+        365,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-2.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      383,
+      488,
+      567,
+      572
+    ],
+    "size": [
+      184,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        376,
+        453,
+        512,
+        510
+      ],
+      [
+        660,
+        453,
+        695,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-3.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      713,
+      488,
+      914,
+      572
+    ],
+    "size": [
+      201,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        706,
+        453,
+        842,
+        510
+      ],
+      [
+        990,
+        453,
+        1025,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-4.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      1043,
+      488,
+      1247,
+      572
+    ],
+    "size": [
+      204,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1036,
+        453,
+        1172,
+        510
+      ],
+      [
+        1320,
+        453,
+        1355,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-5.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      1373,
+      488,
+      1568,
+      572
+    ],
+    "size": [
+      195,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1366,
+        453,
+        1502,
+        510
+      ],
+      [
+        1650,
+        453,
+        1685,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 18,
+    "asset": "assets/images/sections/s18-product-6.webp",
+    "source": "design/section-18.png",
+    "crop": [
+      1703,
+      488,
+      1919,
+      572
+    ],
+    "size": [
+      216,
+      84
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1696,
+        453,
+        1832,
+        510
+      ],
+      [
+        1980,
+        453,
+        2015,
+        510
+      ]
+    ]
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-large-category-1.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      31,
+      258,
+      353,
+      465
+    ],
+    "size": [
+      322,
+      207
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              54,
+              338
+            ],
+            [
+              119,
+              352
+            ],
+            [
+              146,
+              319
+            ],
+            [
+              314,
+              270
+            ],
+            [
+              309,
+              339
+            ],
+            [
+              341,
+              328
+            ],
+            [
+              329,
+              396
+            ],
+            [
+              339,
+              416
+            ],
+            [
+              318,
+              429
+            ],
+            [
+              84,
+              431
+            ],
+            [
+              54,
+              413
+            ],
+            [
+              77,
+              398
+            ]
+          ]
+        ],
+        [
+          "ellipse",
+          [
+            48,
+            404,
+            343,
+            438
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              48,
+              422
+            ],
+            [
+              343,
+              422
+            ],
+            [
+              342,
+              441
+            ],
+            [
+              327,
+              449
+            ],
+            [
+              195,
+              455
+            ],
+            [
+              60,
+              446
+            ],
+            [
+              48,
+              439
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        318,
+        446,
+        26
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Original UI occludes a small part of the plinth/background; CSS rebuilds the support underneath."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-large-category-2.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      376,
+      252,
+      696,
+      468
+    ],
+    "size": [
+      320,
+      216
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              418,
+              349
+            ],
+            [
+              524,
+              322
+            ],
+            [
+              526,
+              287
+            ],
+            [
+              584,
+              258
+            ],
+            [
+              670,
+              279
+            ],
+            [
+              671,
+              434
+            ],
+            [
+              648,
+              445
+            ],
+            [
+              451,
+              445
+            ],
+            [
+              450,
+              431
+            ],
+            [
+              420,
+              427
+            ]
+          ]
+        ],
+        [
+          "ellipse",
+          [
+            392,
+            416,
+            680,
+            452
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              392,
+              435
+            ],
+            [
+              680,
+              435
+            ],
+            [
+              679,
+              453
+            ],
+            [
+              657,
+              461
+            ],
+            [
+              537,
+              466
+            ],
+            [
+              409,
+              458
+            ],
+            [
+              392,
+              452
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        659,
+        446,
+        26
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Original UI occludes a small part of the plinth/background; CSS rebuilds the support underneath."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-large-category-3.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      713,
+      258,
+      1067,
+      517
+    ],
+    "size": [
+      354,
+      259
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              900,
+              268
+            ],
+            [
+              1032,
+              259
+            ],
+            [
+              1034,
+              375
+            ],
+            [
+              915,
+              380
+            ],
+            [
+              896,
+              349
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              767,
+              316
+            ],
+            [
+              887,
+              325
+            ],
+            [
+              884,
+              365
+            ],
+            [
+              765,
+              360
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              752,
+              365
+            ],
+            [
+              914,
+              362
+            ],
+            [
+              925,
+              395
+            ],
+            [
+              923,
+              450
+            ],
+            [
+              777,
+              461
+            ],
+            [
+              738,
+              445
+            ],
+            [
+              744,
+              393
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              927,
+              361
+            ],
+            [
+              969,
+              372
+            ],
+            [
+              971,
+              455
+            ],
+            [
+              937,
+              467
+            ],
+            [
+              917,
+              451
+            ],
+            [
+              918,
+              387
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              969,
+              363
+            ],
+            [
+              1049,
+              366
+            ],
+            [
+              1048,
+              452
+            ],
+            [
+              976,
+              460
+            ],
+            [
+              967,
+              449
+            ]
+          ]
+        ],
+        [
+          "ellipse",
+          [
+            729,
+            426,
+            1052,
+            476
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              728,
+              451
+            ],
+            [
+              1052,
+              451
+            ],
+            [
+              1052,
+              482
+            ],
+            [
+              1030,
+              495
+            ],
+            [
+              890,
+              513
+            ],
+            [
+              751,
+              495
+            ],
+            [
+              728,
+              483
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        890,
+        506,
+        31
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Original UI occludes a small part of the plinth/background; CSS rebuilds the support underneath."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-large-category-4.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      1085,
+      257,
+      1399,
+      468
+    ],
+    "size": [
+      314,
+      211
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              1134,
+              324
+            ],
+            [
+              1368,
+              264
+            ],
+            [
+              1362,
+              412
+            ],
+            [
+              1261,
+              419
+            ],
+            [
+              1263,
+              432
+            ],
+            [
+              1313,
+              440
+            ],
+            [
+              1306,
+              449
+            ],
+            [
+              1182,
+              449
+            ],
+            [
+              1176,
+              440
+            ],
+            [
+              1227,
+              430
+            ],
+            [
+              1229,
+              421
+            ],
+            [
+              1130,
+              411
+            ]
+          ]
+        ],
+        [
+          "ellipse",
+          [
+            1101,
+            420,
+            1385,
+            453
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              1100,
+              438
+            ],
+            [
+              1386,
+              438
+            ],
+            [
+              1386,
+              451
+            ],
+            [
+              1367,
+              459
+            ],
+            [
+              1224,
+              465
+            ],
+            [
+              1118,
+              457
+            ],
+            [
+              1100,
+              450
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        1361,
+        446,
+        26
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Original UI occludes a small part of the plinth/background; CSS rebuilds the support underneath."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-large-category-5.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      1423,
+      247,
+      1742,
+      468
+    ],
+    "size": [
+      319,
+      221
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              1450,
+              355
+            ],
+            [
+              1545,
+              350
+            ],
+            [
+              1564,
+              362
+            ],
+            [
+              1558,
+              416
+            ],
+            [
+              1449,
+              419
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              1544,
+              374
+            ],
+            [
+              1557,
+              342
+            ],
+            [
+              1585,
+              330
+            ],
+            [
+              1613,
+              335
+            ],
+            [
+              1623,
+              363
+            ],
+            [
+              1653,
+              390
+            ],
+            [
+              1657,
+              419
+            ],
+            [
+              1628,
+              439
+            ],
+            [
+              1584,
+              440
+            ],
+            [
+              1549,
+              422
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              1663,
+              252
+            ],
+            [
+              1690,
+              250
+            ],
+            [
+              1709,
+              272
+            ],
+            [
+              1719,
+              305
+            ],
+            [
+              1715,
+              338
+            ],
+            [
+              1718,
+              359
+            ],
+            [
+              1714,
+              400
+            ],
+            [
+              1709,
+              426
+            ],
+            [
+              1690,
+              434
+            ],
+            [
+              1653,
+              430
+            ],
+            [
+              1640,
+              408
+            ],
+            [
+              1634,
+              386
+            ],
+            [
+              1627,
+              376
+            ],
+            [
+              1634,
+              344
+            ],
+            [
+              1629,
+              322
+            ],
+            [
+              1640,
+              289
+            ],
+            [
+              1652,
+              277
+            ],
+            [
+              1657,
+              260
+            ]
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              1634,
+              414
+            ],
+            [
+              1653,
+              410
+            ],
+            [
+              1681,
+              422
+            ],
+            [
+              1686,
+              434
+            ],
+            [
+              1677,
+              438
+            ],
+            [
+              1642,
+              437
+            ],
+            [
+              1628,
+              430
+            ]
+          ]
+        ],
+        [
+          "ellipse",
+          [
+            1438,
+            416,
+            1727,
+            453
+          ]
+        ],
+        [
+          "polygon",
+          [
+            [
+              1438,
+              438
+            ],
+            [
+              1727,
+              438
+            ],
+            [
+              1725,
+              454
+            ],
+            [
+              1709,
+              462
+            ],
+            [
+              1583,
+              466
+            ],
+            [
+              1458,
+              459
+            ],
+            [
+              1438,
+              451
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        1707,
+        446,
+        26
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Original UI occludes a small part of the plinth/background; CSS rebuilds the support underneath."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-1.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      155,
+      654,
+      247,
+      748
+    ],
+    "size": [
+      92,
+      94
+    ],
+    "cleanup": null,
+    "selection": "clean object region; source pixels retained"
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-2.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      438,
+      654,
+      550,
+      748
+    ],
+    "size": [
+      112,
+      94
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              438,
+              654
+            ],
+            [
+              550,
+              654
+            ],
+            [
+              550,
+              748
+            ],
+            [
+              438,
+              748
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        557,
+        724,
+        23
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Source UI occludes lower-right artwork pixels; alpha excludes those pixels. Hidden product pixels are not invented."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-3.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      743,
+      663,
+      844,
+      748
+    ],
+    "size": [
+      101,
+      85
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              743,
+              663
+            ],
+            [
+              844,
+              663
+            ],
+            [
+              844,
+              748
+            ],
+            [
+              743,
+              748
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        850,
+        724,
+        23
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Source UI occludes lower-right artwork pixels; alpha excludes those pixels. Hidden product pixels are not invented."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-4.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      1041,
+      660,
+      1145,
+      748
+    ],
+    "size": [
+      104,
+      88
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              1041,
+              660
+            ],
+            [
+              1145,
+              660
+            ],
+            [
+              1145,
+              748
+            ],
+            [
+              1041,
+              748
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        1146,
+        724,
+        23
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Source UI occludes lower-right artwork pixels; alpha excludes those pixels. Hidden product pixels are not invented."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-5.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      1336,
+      665,
+      1430,
+      748
+    ],
+    "size": [
+      94,
+      83
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              1336,
+              665
+            ],
+            [
+              1430,
+              665
+            ],
+            [
+              1430,
+              748
+            ],
+            [
+              1336,
+              748
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        1435,
+        724,
+        23
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Source UI occludes lower-right artwork pixels; alpha excludes those pixels. Hidden product pixels are not invented."
+  },
+  {
+    "section": 2,
+    "asset": "assets/images/sections/s2-small-category-6.webp",
+    "source": "design/section-2.png",
+    "crop": [
+      1635,
+      650,
+      1731,
+      750
+    ],
+    "size": [
+      96,
+      100
+    ],
+    "cleanup": {
+      "method": "source-pixel crop with silhouette alpha and UI exclusion",
+      "source_space_shapes": [
+        [
+          "polygon",
+          [
+            [
+              1648,
+              656
+            ],
+            [
+              1671,
+              650
+            ],
+            [
+              1701,
+              658
+            ],
+            [
+              1710,
+              682
+            ],
+            [
+              1725,
+              688
+            ],
+            [
+              1727,
+              741
+            ],
+            [
+              1713,
+              749
+            ],
+            [
+              1637,
+              748
+            ],
+            [
+              1635,
+              701
+            ],
+            [
+              1648,
+              699
+            ]
+          ]
+        ]
+      ],
+      "silhouette_feather_px": 0.6,
+      "excluded_ui_circle": [
+        1715,
+        724,
+        24
+      ],
+      "edge_feather_px": 4
+    },
+    "selection": "Product artwork only; source UI excluded, headings/lists/buttons remain HTML.",
+    "differences": "Source UI occludes lower-right artwork pixels; alpha excludes those pixels. Hidden product pixels are not invented."
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-1.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      18,
+      158,
+      277,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-2.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      285,
+      158,
+      544,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-3.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      552,
+      158,
+      811,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-4.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      819,
+      158,
+      1078,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-5.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      1086,
+      158,
+      1345,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-6.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      1353,
+      158,
+      1612,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-7.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      1620,
+      158,
+      1879,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 3,
+    "asset": "assets/images/sections/s3-profession-8.webp",
+    "source": "design/section-3.png",
+    "crop": [
+      1887,
+      158,
+      2146,
+      336
+    ],
+    "size": [
+      259,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-product-1.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      463,
+      156,
+      681,
+      288
+    ],
+    "size": [
+      218,
+      132
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        456,
+        121,
+        539,
+        167
+      ],
+      [
+        661,
+        121,
+        696,
+        178
+      ]
+    ]
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-product-2.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      714,
+      156,
+      941,
+      291
+    ],
+    "size": [
+      227,
+      135
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        707,
+        121,
+        790,
+        167
+      ],
+      [
+        912,
+        121,
+        947,
+        178
+      ]
+    ]
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-product-3.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      972,
+      173,
+      1193,
+      287
+    ],
+    "size": [
+      221,
+      114
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        958,
+        121,
+        1041,
+        167
+      ],
+      [
+        1163,
+        121,
+        1198,
+        178
+      ]
+    ]
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-product-4.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1242,
+      166,
+      1424,
+      291
+    ],
+    "size": [
+      182,
+      125
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1209,
+        121,
+        1292,
+        167
+      ],
+      [
+        1414,
+        121,
+        1449,
+        178
+      ]
+    ]
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-product-5.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1525,
+      156,
+      1651,
+      291
+    ],
+    "size": [
+      126,
+      135
+    ],
+    "cleanup": null,
+    "selection": "artwork extraction with transparent exclusions for original UI badge/heart corners",
+    "excludedUIRegions": [
+      [
+        1460,
+        121,
+        1543,
+        167
+      ],
+      [
+        1665,
+        121,
+        1700,
+        178
+      ]
+    ]
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-deal-robot.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1725,
+      121,
+      2042,
+      449
+    ],
+    "size": [
+      317,
+      328
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-explore-1.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      318,
+      483,
+      672,
+      642
+    ],
+    "size": [
+      354,
+      159
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-explore-2.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      957,
+      483,
+      1322,
+      642
+    ],
+    "size": [
+      365,
+      159
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-explore-3.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1609,
+      483,
+      2002,
+      642
+    ],
+    "size": [
+      393,
+      159
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-hero-artwork.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      575,
+      19,
+      1160,
+      397
+    ],
+    "size": [
+      585,
+      378
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-featured-1.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      1184,
+      32,
+      1351,
+      140
+    ],
+    "size": [
+      167,
+      108
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-featured-2.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      1184,
+      169,
+      1351,
+      263
+    ],
+    "size": [
+      167,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-featured-3.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      1184,
+      290,
+      1351,
+      383
+    ],
+    "size": [
+      167,
+      93
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-article-1.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      49,
+      478,
+      319,
+      572
+    ],
+    "size": [
+      270,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-article-2.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      356,
+      478,
+      625,
+      572
+    ],
+    "size": [
+      269,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-article-3.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      663,
+      478,
+      932,
+      572
+    ],
+    "size": [
+      269,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-article-4.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      967,
+      478,
+      1237,
+      572
+    ],
+    "size": [
+      270,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-article-5.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      1275,
+      478,
+      1546,
+      572
+    ],
+    "size": [
+      271,
+      94
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 22,
+    "asset": "assets/images/sections/s22-hero-artwork.webp",
+    "source": "design/section-22.png",
+    "crop": [
+      510,
+      18,
+      1240,
+      355
+    ],
+    "size": [
+      730,
+      337
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 22,
+    "asset": "assets/images/sections/s22-activity-1.webp",
+    "source": "design/section-22.png",
+    "crop": [
+      42,
+      374,
+      522,
+      538
+    ],
+    "size": [
+      480,
+      164
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 22,
+    "asset": "assets/images/sections/s22-activity-2.webp",
+    "source": "design/section-22.png",
+    "crop": [
+      540,
+      374,
+      1013,
+      538
+    ],
+    "size": [
+      473,
+      164
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 22,
+    "asset": "assets/images/sections/s22-activity-3.webp",
+    "source": "design/section-22.png",
+    "crop": [
+      1031,
+      374,
+      1503,
+      538
+    ],
+    "size": [
+      472,
+      164
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 22,
+    "asset": "assets/images/sections/s22-activity-4.webp",
+    "source": "design/section-22.png",
+    "crop": [
+      1522,
+      374,
+      2001,
+      538
+    ],
+    "size": [
+      479,
+      164
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-1.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      80,
+      277,
+      356,
+      688
+    ],
+    "size": [
+      276,
+      411
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-2.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      368,
+      277,
+      737,
+      456
+    ],
+    "size": [
+      369,
+      179
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-3.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      748,
+      277,
+      1085,
+      456
+    ],
+    "size": [
+      337,
+      179
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-4.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      1096,
+      277,
+      1433,
+      456
+    ],
+    "size": [
+      337,
+      179
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-5.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      1445,
+      277,
+      1756,
+      456
+    ],
+    "size": [
+      311,
+      179
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-6.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      368,
+      541,
+      662,
+      698
+    ],
+    "size": [
+      294,
+      157
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-7.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      673,
+      541,
+      921,
+      698
+    ],
+    "size": [
+      248,
+      157
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-8.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      932,
+      541,
+      1175,
+      698
+    ],
+    "size": [
+      243,
+      157
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-9.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      1186,
+      541,
+      1434,
+      698
+    ],
+    "size": [
+      248,
+      157
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 23,
+    "asset": "assets/images/sections/s23-customer-10.webp",
+    "source": "design/section-23.png",
+    "crop": [
+      1445,
+      541,
+      1756,
+      698
+    ],
+    "size": [
+      311,
+      157
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 20,
+    "asset": "assets/images/sections/s20-ai-channel.webp",
+    "source": "design/section-20.png",
+    "crop": [
+      1184,
+      32,
+      1351,
+      140
+    ],
+    "size": [
+      167,
+      108
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 24,
+    "asset": "assets/images/sections/s24-shopee-bag.webp",
+    "source": "design/section-24.png",
+    "crop": [
+      570,
+      310,
+      770,
+      548
+    ],
+    "size": [
+      200,
+      238
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 24,
+    "asset": "assets/images/sections/s24-tiktok-phone.webp",
+    "source": "design/section-24.png",
+    "crop": [
+      949,
+      322,
+      1095,
+      548
+    ],
+    "size": [
+      146,
+      226
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 24,
+    "asset": "assets/images/sections/s24-builder-pc.webp",
+    "source": "design/section-24.png",
+    "crop": [
+      1275,
+      300,
+      1660,
+      548
+    ],
+    "size": [
+      385,
+      248
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 24,
+    "asset": "assets/images/sections/s24-flash-art.webp",
+    "source": "design/section-24.png",
+    "crop": [
+      1755,
+      300,
+      2037,
+      446
+    ],
+    "size": [
+      282,
+      146
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 25,
+    "asset": "assets/images/sections/s25-showroom.webp",
+    "source": "design/section-25.png",
+    "crop": [
+      0,
+      111,
+      526,
+      412
+    ],
+    "size": [
+      526,
+      301
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 25,
+    "asset": "assets/images/sections/s25-vietnam-map.webp",
+    "source": "design/section-25.png",
+    "crop": [
+      1429,
+      219,
+      1534,
+      397
+    ],
+    "size": [
+      105,
+      178
+    ],
+    "cleanup": null
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/rtx-5070.webp",
+    "source": "D:/hacom-0309/assets/images/products/06-01-card-man-hinh-gigabyte-rtx-5070-windforce-oc-sff-12g-gddr7-gv-n5070wf3oc.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/oled-monitor.webp",
+    "source": "D:/hacom-0309/assets/images/products/07-01-man-hinh-gigabyte-mo27q2-27-inch-qhd-qd-oled-240hz-0-03ms-loa.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/gaming-pc.webp",
+    "source": "D:/hacom-0309/assets/images/products/02-04-pc-hacom-platinum-pro-035-nvidia-rtx-5070-intel-i7-14700f-wifi.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/macbook.webp",
+    "source": "D:/hacom-0309/assets/images/products/01-06-laptop-apple-macbook-air-m5-mdh84sa-a-apple-m5-10-core-cpu-10-core-gpu-1.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/mechanical-keyboard.webp",
+    "source": "D:/hacom-0309/assets/images/products/08-08-ban-phim-asus-rog-azoth-extreme-edition-20-rog-nx-snow.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 21,
+    "asset": "assets/images/video/gaming-chair.webp",
+    "source": "D:/hacom-0309/assets/images/products/08-07-ghe-game-corsair-tc500-luxe-shadow.webp",
+    "size": [
+      640,
+      640
+    ],
+    "crop": null,
+    "selection": "full-resolution matching product type; original thumbnail artwork differs"
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-laptop.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      68,
+      654,
+      134,
+      702
+    ],
+    "size": [
+      66,
+      48
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-pc.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      199,
+      649,
+      245,
+      704
+    ],
+    "size": [
+      46,
+      55
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-vga.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      311,
+      653,
+      390,
+      703
+    ],
+    "size": [
+      79,
+      50
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-monitor.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      440,
+      650,
+      517,
+      705
+    ],
+    "size": [
+      77,
+      55
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-headset.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      579,
+      647,
+      639,
+      705
+    ],
+    "size": [
+      60,
+      58
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-rtx.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      849,
+      654,
+      927,
+      704
+    ],
+    "size": [
+      78,
+      50
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-oled.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      970,
+      650,
+      1054,
+      706
+    ],
+    "size": [
+      84,
+      56
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-ai-laptop.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1090,
+      650,
+      1184,
+      705
+    ],
+    "size": [
+      94,
+      55
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  },
+  {
+    "section": 4,
+    "asset": "assets/images/sections/s4-category-handheld.webp",
+    "source": "design/section-4.png",
+    "crop": [
+      1220,
+      654,
+      1301,
+      704
+    ],
+    "size": [
+      81,
+      50
+    ],
+    "processing": "Source RGB crop; excludes category label and tile border.",
+    "differences": "Original near-white background retained; displayed with contain."
+  }
+]

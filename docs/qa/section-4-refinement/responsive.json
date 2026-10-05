@@ -1,0 +1,112 @@
+[
+  {
+    "height": 2530.525146484375,
+    "heroHeight": 1155.5250244140625,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 320
+  },
+  {
+    "height": 2523.525146484375,
+    "heroHeight": 1155.5250244140625,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 375
+  },
+  {
+    "height": 2520.025146484375,
+    "heroHeight": 1155.5250244140625,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 390
+  },
+  {
+    "height": 1820.987548828125,
+    "heroHeight": 927.4874877929688,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 768
+  },
+  {
+    "height": 1769.987548828125,
+    "heroHeight": 879.9874877929688,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1024
+  },
+  {
+    "height": 1023.6500244140624,
+    "heroHeight": 655.1500244140625,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": true,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1280
+  },
+  {
+    "height": 994.4500122070312,
+    "heroHeight": 625.9500122070312,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": false,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1440
+  },
+  {
+    "height": 731.25,
+    "heroHeight": 449.75,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": false,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1760
+  },
+  {
+    "height": 731.25,
+    "heroHeight": 449.75,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": false,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1919
+  },
+  {
+    "height": 731.2250366210938,
+    "heroHeight": 449.7250061035156,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": false,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 1920
+  },
+  {
+    "height": 731.2250366210938,
+    "heroHeight": 449.7250061035156,
+    "images": [],
+    "pageOverflow": false,
+    "railScroll": false,
+    "textOverflow": [],
+    "touchSmall": [],
+    "width": 2560
+  }
+]

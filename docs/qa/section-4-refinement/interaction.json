@@ -1,0 +1,13 @@
+{
+  "focus": {
+    "focusVisible": true,
+    "focused": "Hot Trend\nXu hướng công nghệ mới nhất",
+    "outline": "rgb(99, 139, 255) solid 2.4px"
+  },
+  "keyboardRail": {
+    "count": 5,
+    "focused": "hs-products ",
+    "scrollLeft": 40
+  },
+  "hoverActive": "Section-scoped CSS rules inspected; pointer states not simulated by the available IAB API."
+}

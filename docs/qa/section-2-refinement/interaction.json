@@ -1,0 +1,19 @@
+{
+  "hover": {
+    "filter": "brightness(1.08)",
+    "hover": true
+  },
+  "focus": {
+    "focusVisible": true,
+    "outlineColor": "rgb(255, 186, 0)",
+    "outlineStyle": "solid",
+    "outlineWidth": "2.4px",
+    "text": "Laptop Văn Phòng"
+  },
+  "activeRules": [
+    {
+      "filter": "brightness(0.92)",
+      "selector": ".hacom-section :is(a, button):active"
+    }
+  ]
+}

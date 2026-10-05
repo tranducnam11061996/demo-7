@@ -1,0 +1,79 @@
+[
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 272.8000183105469,
+    "sections": 25,
+    "viewport": 320
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 328,
+    "sections": 25,
+    "viewport": 375
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 343.20001220703125,
+    "sections": 25,
+    "viewport": 390
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 704.7999877929688,
+    "sections": 25,
+    "viewport": 768
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 960.7999877929688,
+    "sections": 25,
+    "viewport": 1024
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1216.800048828125,
+    "sections": 25,
+    "viewport": 1280
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1376.800048828125,
+    "sections": 25,
+    "viewport": 1440
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1600,
+    "sections": 25,
+    "viewport": 1760
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1600,
+    "sections": 25,
+    "viewport": 1919
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1800,
+    "sections": 25,
+    "viewport": 1920
+  },
+  {
+    "h1": 1,
+    "pageOverflow": false,
+    "section2Width": 1800,
+    "sections": 25,
+    "viewport": 2560
+  }
+]

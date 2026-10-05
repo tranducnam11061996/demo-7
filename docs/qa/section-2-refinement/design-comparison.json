@@ -1,0 +1,71 @@
+{
+  "reference": "design/section-2.png",
+  "contentCrop": [
+    30,
+    0,
+    1744,
+    887
+  ],
+  "sourceContentWidth": 1714,
+  "renderContentWidth": 1800,
+  "scale": 1.0501750291715286,
+  "note": "Source anchors are manually estimated, not an automated pixel-equivalence claim.",
+  "anchors": [
+    {
+      "name": "Top of outer cards",
+      "sourceY": 176,
+      "normalizedY": 184.831,
+      "renderY": 184.8,
+      "delta": -0.031
+    },
+    {
+      "name": "Top of featured card",
+      "sourceY": 170,
+      "normalizedY": 178.53,
+      "renderY": 178.8,
+      "delta": 0.27
+    },
+    {
+      "name": "Bottom of main cards",
+      "sourceY": 635,
+      "normalizedY": 666.861,
+      "renderY": 670.8,
+      "delta": 3.939
+    },
+    {
+      "name": "Laptop list top",
+      "sourceY": 465,
+      "normalizedY": 488.331,
+      "renderY": 493.4,
+      "delta": 5.069
+    },
+    {
+      "name": "Other lists top",
+      "sourceY": 469,
+      "normalizedY": 492.532,
+      "renderY": 493.4,
+      "delta": 0.868
+    },
+    {
+      "name": "Small cards top",
+      "sourceY": 649,
+      "normalizedY": 681.564,
+      "renderY": 686.8,
+      "delta": 5.236
+    },
+    {
+      "name": "Benefit strip top",
+      "sourceY": 773,
+      "normalizedY": 811.785,
+      "renderY": 816.4,
+      "delta": 4.615
+    },
+    {
+      "name": "Benefit strip bottom",
+      "sourceY": 858,
+      "normalizedY": 901.05,
+      "renderY": 906.4,
+      "delta": 5.35
+    }
+  ]
+}

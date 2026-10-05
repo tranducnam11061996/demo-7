@@ -1,0 +1,22 @@
+{
+  "buttons": [
+    {
+      "height": 49,
+      "type": "button"
+    },
+    {
+      "height": 48.400001525878906,
+      "type": "button"
+    }
+  ],
+  "focusVisible": true,
+  "inputValue": "Laptop ASUS",
+  "name": "Tìm kiếm bằng hình ảnh",
+  "outline": "rgb(255, 183, 3) solid 2.4px",
+  "utilityNames": [
+    "Đăng nhập, tài khoản",
+    "Yêu thích, 0 sản phẩm",
+    "So sánh, 0 sản phẩm",
+    "Giỏ hàng, 0 sản phẩm"
+  ]
+}

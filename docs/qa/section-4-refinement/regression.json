@@ -1,0 +1,74 @@
+{
+  "method": "Combined page with only section-4 override rules removed; shared font faces and custom properties retained. Coordinates relative to each section.",
+  "summary": [
+    {
+      "width": 390,
+      "sections": [
+        {
+          "id": 1,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 2,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 7,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0.0009765625,
+          "styleChanges": 0
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "sections": [
+        {
+          "id": 1,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 2,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 7,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0.00048828125,
+          "styleChanges": 0
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "sections": [
+        {
+          "id": 1,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 2,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0,
+          "styleChanges": 0
+        },
+        {
+          "id": 7,
+          "itemCountUnchanged": true,
+          "maxGeometryDelta": 0.00048828125,
+          "styleChanges": 0
+        }
+      ]
+    }
+  ]
+}

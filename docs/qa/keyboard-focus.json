@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Xem cấu hình gợi ý",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi CPU",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi tản nhiệt CPU",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi mainboard",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi RAM",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi VGA",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi ổ cứng",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi nguồn",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thay đổi case",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Lưu cấu hình",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Thêm vào giỏ hàng",
+    "outline": "solid",
+    "visible": true
+  },
+  {
+    "name": "Tìm hiểu thêm về PC Builder",
+    "outline": "solid",
+    "visible": true
+  }
+]

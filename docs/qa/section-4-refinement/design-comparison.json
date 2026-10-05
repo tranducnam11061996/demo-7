@@ -1,0 +1,55 @@
+{
+  "reference": "design/section-4.png",
+  "contentCrop": [
+    40,
+    0,
+    2003,
+    770
+  ],
+  "scale": 0.9169638308711157,
+  "note": "Estimated source anchors; Inter >=13px causes specs and longer category labels to wrap. This is not a pixel-equivalence claim.",
+  "anchors": [
+    {
+      "name": "Product left",
+      "normalized": 436.872,
+      "render": 434.288,
+      "delta": -2.585
+    },
+    {
+      "name": "Product top",
+      "normalized": 115.537,
+      "render": 118.988,
+      "delta": 3.45
+    },
+    {
+      "name": "Product bottom",
+      "normalized": 414.468,
+      "render": 433.725,
+      "delta": 19.257
+    },
+    {
+      "name": "Band boundary",
+      "normalized": 430.973,
+      "render": 449.725,
+      "delta": 18.752
+    },
+    {
+      "name": "Banner top",
+      "normalized": 441.977,
+      "render": 461.725,
+      "delta": 19.748
+    },
+    {
+      "name": "Category top",
+      "normalized": 589.608,
+      "render": 609.725,
+      "delta": 20.117
+    },
+    {
+      "name": "Category bottom",
+      "normalized": 678.553,
+      "render": 703.225,
+      "delta": 24.672
+    }
+  ]
+}

@@ -1,0 +1,1674 @@
+[
+  {
+    "cards": [
+      {
+        "bottom": 821.5999908447266,
+        "height": 617.2999877929688,
+        "width": 272.8000183105469,
+        "x": 16,
+        "y": 204.3000030517578
+      },
+      {
+        "bottom": 1410.9000244140625,
+        "height": 573.2999877929688,
+        "width": 272.8000183105469,
+        "x": 16,
+        "y": 837.6000366210938
+      },
+      {
+        "bottom": 1887.4000244140625,
+        "height": 460.5,
+        "width": 272.8000183105469,
+        "x": 16,
+        "y": 1426.9000244140625
+      },
+      {
+        "bottom": 2432.7000122070312,
+        "height": 529.2999877929688,
+        "width": 272.8000183105469,
+        "x": 16,
+        "y": 1903.4000244140625
+      },
+      {
+        "bottom": 3021.999938964844,
+        "height": 573.2999877929688,
+        "width": 272.8000183105469,
+        "x": 16,
+        "y": 2448.699951171875
+      }
+    ],
+    "container": {
+      "bottom": 3857.900146484375,
+      "height": 3839.900146484375,
+      "width": 272.8000183105469,
+      "x": 16,
+      "y": 18
+    },
+    "fontSizes": {
+      "category": "18px",
+      "component": "13px",
+      "small": "13px",
+      "title": "26px"
+    },
+    "largeColumns": "272.8px",
+    "listTops": [
+      522.7999877929688,
+      1156.0999755859375,
+      2221.900146484375,
+      2767.199951171875
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 510.8000183105469,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 228,
+        "y": 466.8000183105469
+      },
+      {
+        "bottom": 1144.0999755859375,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 228,
+        "y": 1100.0999755859375
+      },
+      {
+        "bottom": 1753.5999755859375,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 124.4000015258789,
+        "y": 1697.5999755859375
+      },
+      {
+        "bottom": 2209.900146484375,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 228,
+        "y": 2165.900146484375
+      },
+      {
+        "bottom": 2755.199951171875,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 228,
+        "y": 2711.199951171875
+      }
+    ],
+    "section": {
+      "bottom": 3875.900146484375,
+      "height": 3875.900146484375,
+      "width": 304.8000183105469,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 3556.2999877929688,
+      "height": 519.2999877929688,
+      "width": 272.8000183105469,
+      "x": 16,
+      "y": 3037
+    },
+    "smallColumns": "130.4px 130.4px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 3857.9000549316406,
+      "height": 289.6000061035156,
+      "width": 272.8000183105469,
+      "x": 16,
+      "y": 3568.300048828125
+    },
+    "viewport": 320
+  },
+  {
+    "cards": [
+      {
+        "bottom": 800.5999908447266,
+        "height": 617.2999877929688,
+        "width": 328,
+        "x": 16,
+        "y": 183.3000030517578
+      },
+      {
+        "bottom": 1389.9000244140625,
+        "height": 573.2999877929688,
+        "width": 328,
+        "x": 16,
+        "y": 816.6000366210938
+      },
+      {
+        "bottom": 1822.4000244140625,
+        "height": 416.5,
+        "width": 328,
+        "x": 16,
+        "y": 1405.9000244140625
+      },
+      {
+        "bottom": 2367.7000122070312,
+        "height": 529.2999877929688,
+        "width": 328,
+        "x": 16,
+        "y": 1838.4000244140625
+      },
+      {
+        "bottom": 2956.999938964844,
+        "height": 573.2999877929688,
+        "width": 328,
+        "x": 16,
+        "y": 2383.699951171875
+      }
+    ],
+    "container": {
+      "bottom": 3792.900146484375,
+      "height": 3774.900146484375,
+      "width": 328,
+      "x": 16,
+      "y": 18
+    },
+    "fontSizes": {
+      "category": "18px",
+      "component": "13px",
+      "small": "13px",
+      "title": "26px"
+    },
+    "largeColumns": "328px",
+    "listTops": [
+      501.8000183105469,
+      1135.0999755859375,
+      2156.900146484375,
+      2702.199951171875
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 489.8000183105469,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 283.20001220703125,
+        "y": 445.8000183105469
+      },
+      {
+        "bottom": 1123.0999755859375,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 283.20001220703125,
+        "y": 1079.0999755859375
+      },
+      {
+        "bottom": 1732.5999755859375,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 152,
+        "y": 1676.5999755859375
+      },
+      {
+        "bottom": 2144.900146484375,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 283.20001220703125,
+        "y": 2100.900146484375
+      },
+      {
+        "bottom": 2690.199951171875,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 283.20001220703125,
+        "y": 2646.199951171875
+      }
+    ],
+    "section": {
+      "bottom": 3810.900146484375,
+      "height": 3810.900146484375,
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 3491.2999877929688,
+      "height": 519.2999877929688,
+      "width": 328,
+      "x": 16,
+      "y": 2972
+    },
+    "smallColumns": "158px 158px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 3792.9000549316406,
+      "height": 289.6000061035156,
+      "width": 328,
+      "x": 16,
+      "y": 3503.300048828125
+    },
+    "viewport": 375
+  },
+  {
+    "cards": [
+      {
+        "bottom": 800.5999908447266,
+        "height": 617.2999877929688,
+        "width": 343.20001220703125,
+        "x": 16,
+        "y": 183.3000030517578
+      },
+      {
+        "bottom": 1389.9000244140625,
+        "height": 573.2999877929688,
+        "width": 343.20001220703125,
+        "x": 16,
+        "y": 816.6000366210938
+      },
+      {
+        "bottom": 1822.4000244140625,
+        "height": 416.5,
+        "width": 343.20001220703125,
+        "x": 16,
+        "y": 1405.9000244140625
+      },
+      {
+        "bottom": 2367.7000122070312,
+        "height": 529.2999877929688,
+        "width": 343.20001220703125,
+        "x": 16,
+        "y": 1838.4000244140625
+      },
+      {
+        "bottom": 2956.999938964844,
+        "height": 573.2999877929688,
+        "width": 343.20001220703125,
+        "x": 16,
+        "y": 2383.699951171875
+      }
+    ],
+    "container": {
+      "bottom": 3792.900146484375,
+      "height": 3774.900146484375,
+      "width": 343.20001220703125,
+      "x": 16,
+      "y": 18
+    },
+    "fontSizes": {
+      "category": "18px",
+      "component": "13px",
+      "small": "13px",
+      "title": "26px"
+    },
+    "largeColumns": "343.2px",
+    "listTops": [
+      501.8000183105469,
+      1135.0999755859375,
+      2156.900146484375,
+      2702.199951171875
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 489.8000183105469,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 298.3999938964844,
+        "y": 445.8000183105469
+      },
+      {
+        "bottom": 1123.0999755859375,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 298.3999938964844,
+        "y": 1079.0999755859375
+      },
+      {
+        "bottom": 1732.5999755859375,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 159.60000610351562,
+        "y": 1676.5999755859375
+      },
+      {
+        "bottom": 2144.900146484375,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 298.3999938964844,
+        "y": 2100.900146484375
+      },
+      {
+        "bottom": 2690.199951171875,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 298.3999938964844,
+        "y": 2646.199951171875
+      }
+    ],
+    "section": {
+      "bottom": 3810.900146484375,
+      "height": 3810.900146484375,
+      "width": 375.2000122070313,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 3491.2999877929688,
+      "height": 519.2999877929688,
+      "width": 343.20001220703125,
+      "x": 16,
+      "y": 2972
+    },
+    "smallColumns": "165.6px 165.6px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 3792.9000549316406,
+      "height": 289.6000061035156,
+      "width": 343.20001220703125,
+      "x": 16,
+      "y": 3503.300048828125
+    },
+    "viewport": 390
+  },
+  {
+    "cards": [
+      {
+        "bottom": 618.7000274658203,
+        "height": 473.3000183105469,
+        "width": 224.2624969482422,
+        "x": 24,
+        "y": 145.40000915527344
+      },
+      {
+        "bottom": 618.7000274658203,
+        "height": 473.3000183105469,
+        "width": 224.2624969482422,
+        "x": 264.26251220703125,
+        "y": 145.40000915527344
+      },
+      {
+        "bottom": 1078.0000457763672,
+        "height": 932.6000366210938,
+        "width": 224.27500915527344,
+        "x": 504.5249938964844,
+        "y": 145.40000915527344
+      },
+      {
+        "bottom": 1078.000030517578,
+        "height": 443.3000183105469,
+        "width": 224.2624969482422,
+        "x": 24,
+        "y": 634.7000122070312
+      },
+      {
+        "bottom": 1078.000030517578,
+        "height": 443.3000183105469,
+        "width": 224.2624969482422,
+        "x": 264.26251220703125,
+        "y": 634.7000122070312
+      }
+    ],
+    "container": {
+      "bottom": 1458.800048828125,
+      "height": 1438.800048828125,
+      "width": 704.7999877929688,
+      "x": 24,
+      "y": 20
+    },
+    "fontSizes": {
+      "category": "18px",
+      "component": "13px",
+      "small": "13px",
+      "title": "26px"
+    },
+    "largeColumns": "224.262px 224.262px 224.275px",
+    "listTops": [
+      403.8999938964844,
+      403.8999938964844,
+      893.2000122070312,
+      893.2000122070312
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 391.8999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 187.46250915527344,
+        "y": 347.8999938964844
+      },
+      {
+        "bottom": 391.8999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 427.7250061035156,
+        "y": 347.8999938964844
+      },
+      {
+        "bottom": 532.1000061035156,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 588.6625366210938,
+        "y": 476.1000061035156
+      },
+      {
+        "bottom": 881.2000122070312,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 187.46250915527344,
+        "y": 837.2000122070312
+      },
+      {
+        "bottom": 881.2000122070312,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 427.7250061035156,
+        "y": 837.2000122070312
+      }
+    ],
+    "section": {
+      "bottom": 1478.800048828125,
+      "height": 1478.800048828125,
+      "width": 752.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 1299.1999969482422,
+      "height": 206.1999969482422,
+      "width": 704.7999877929688,
+      "x": 24,
+      "y": 1093
+    },
+    "smallColumns": "226.925px 226.938px 226.925px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 1458.8000793457031,
+      "height": 147.60000610351562,
+      "width": 704.7999877929688,
+      "x": 24,
+      "y": 1311.2000732421875
+    },
+    "viewport": 768
+  },
+  {
+    "cards": [
+      {
+        "bottom": 624.1250152587891,
+        "height": 473.3000183105469,
+        "width": 309.6000061035156,
+        "x": 24,
+        "y": 150.8249969482422
+      },
+      {
+        "bottom": 624.1250152587891,
+        "height": 473.3000183105469,
+        "width": 309.6000061035156,
+        "x": 349.6000061035156,
+        "y": 150.8249969482422
+      },
+      {
+        "bottom": 1083.425033569336,
+        "height": 932.6000366210938,
+        "width": 309.6000061035156,
+        "x": 675.2000122070312,
+        "y": 150.8249969482422
+      },
+      {
+        "bottom": 1083.4250183105469,
+        "height": 443.3000183105469,
+        "width": 309.6000061035156,
+        "x": 24,
+        "y": 640.125
+      },
+      {
+        "bottom": 1083.4250183105469,
+        "height": 443.3000183105469,
+        "width": 309.6000061035156,
+        "x": 349.6000061035156,
+        "y": 640.125
+      }
+    ],
+    "container": {
+      "bottom": 1453.2249755859375,
+      "height": 1433.2249755859375,
+      "width": 960.7999877929688,
+      "x": 24,
+      "y": 20
+    },
+    "fontSizes": {
+      "category": "18px",
+      "component": "13px",
+      "small": "13px",
+      "title": "30.72px"
+    },
+    "largeColumns": "309.6px 309.6px 309.6px",
+    "listTops": [
+      409.3250122070313,
+      409.3250122070313,
+      898.625,
+      898.625
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 397.3250122070313,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 272.8000183105469,
+        "y": 353.32501220703125
+      },
+      {
+        "bottom": 397.3250122070313,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 598.4000244140625,
+        "y": 353.32501220703125
+      },
+      {
+        "bottom": 537.5249938964844,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 802,
+        "y": 481.5249938964844
+      },
+      {
+        "bottom": 886.625,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 272.8000183105469,
+        "y": 842.625
+      },
+      {
+        "bottom": 886.625,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 598.4000244140625,
+        "y": 842.625
+      }
+    ],
+    "section": {
+      "bottom": 1473.2249755859375,
+      "height": 1473.2249755859375,
+      "width": 1008.7999877929688,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 1293.6250457763672,
+      "height": 195.1999969482422,
+      "width": 960.7999877929688,
+      "x": 24,
+      "y": 1098.425048828125
+    },
+    "smallColumns": "312.263px 312.263px 312.275px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 1453.2250061035156,
+      "height": 147.60000610351562,
+      "width": 960.7999877929688,
+      "x": 24,
+      "y": 1305.625
+    },
+    "viewport": 1024
+  },
+  {
+    "cards": [
+      {
+        "bottom": 568.0375061035156,
+        "height": 430,
+        "width": 228.125,
+        "x": 24,
+        "y": 138.03750610351562
+      },
+      {
+        "bottom": 568.0375061035156,
+        "height": 430,
+        "width": 228.125,
+        "x": 268.125,
+        "y": 138.03750610351562
+      },
+      {
+        "bottom": 568.0375061035156,
+        "height": 436,
+        "width": 255.5,
+        "x": 512.25,
+        "y": 132.03750610351562
+      },
+      {
+        "bottom": 568.0375061035156,
+        "height": 430,
+        "width": 228.125,
+        "x": 783.75,
+        "y": 138.03750610351562
+      },
+      {
+        "bottom": 568.0375061035156,
+        "height": 430,
+        "width": 228.125,
+        "x": 1027.875,
+        "y": 138.03750610351562
+      }
+    ],
+    "container": {
+      "bottom": 780.0375366210938,
+      "height": 756.0375366210938,
+      "width": 1232,
+      "x": 24,
+      "y": 24
+    },
+    "fontSizes": {
+      "category": "21.1904px",
+      "component": "13px",
+      "small": "13px",
+      "title": "40.04px"
+    },
+    "largeColumns": "228.125px 228.125px 255.5px 228.125px 228.125px",
+    "listTops": [
+      362.8374938964844,
+      362.8374938964844,
+      362.8374938964844,
+      362.8374938964844
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 362.8374938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 195.3249969482422,
+        "y": 318.8374938964844
+      },
+      {
+        "bottom": 362.8374938964844,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 439.4500122070313,
+        "y": 318.8374938964844
+      },
+      {
+        "bottom": 413.8374938964844,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 612,
+        "y": 357.8374938964844
+      },
+      {
+        "bottom": 362.8374938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 955.0750122070312,
+        "y": 318.8374938964844
+      },
+      {
+        "bottom": 362.8374938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 1199.2000732421875,
+        "y": 318.8374938964844
+      }
+    ],
+    "section": {
+      "bottom": 808.0375366210938,
+      "height": 808.0375366210938,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 680.0375366210938,
+      "height": 98,
+      "width": 1232,
+      "x": 24,
+      "y": 582.0375366210938
+    },
+    "smallColumns": "195.325px 195.337px 195.337px 195.325px 195.337px 195.337px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 780.0375366210938,
+      "height": 82,
+      "width": 1232,
+      "x": 24,
+      "y": 698.0375366210938
+    },
+    "viewport": 1280
+  },
+  {
+    "cards": [
+      {
+        "bottom": 576.9000091552734,
+        "height": 430,
+        "width": 259.375,
+        "x": 24,
+        "y": 146.90000915527344
+      },
+      {
+        "bottom": 576.9000091552734,
+        "height": 430,
+        "width": 259.375,
+        "x": 299.375,
+        "y": 146.90000915527344
+      },
+      {
+        "bottom": 576.9000091552734,
+        "height": 436,
+        "width": 290.5,
+        "x": 574.75,
+        "y": 140.90000915527344
+      },
+      {
+        "bottom": 576.9000091552734,
+        "height": 430,
+        "width": 259.375,
+        "x": 881.25,
+        "y": 146.90000915527344
+      },
+      {
+        "bottom": 576.9000091552734,
+        "height": 430,
+        "width": 259.375,
+        "x": 1156.625,
+        "y": 146.90000915527344
+      }
+    ],
+    "container": {
+      "bottom": 788.8999881744385,
+      "height": 762.9874877929688,
+      "width": 1392,
+      "x": 24,
+      "y": 25.912500381469727
+    },
+    "fontSizes": {
+      "category": "23.9424px",
+      "component": "13px",
+      "small": "13.0013px",
+      "title": "45.24px"
+    },
+    "largeColumns": "259.375px 259.375px 290.5px 259.375px 259.375px",
+    "listTops": [
+      386.3125,
+      386.3125,
+      386.3125,
+      386.3125
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 386.3125,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 225.96250915527344,
+        "y": 342.3125
+      },
+      {
+        "bottom": 386.3125,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 501.3374938964844,
+        "y": 342.3125
+      },
+      {
+        "bottom": 440.1125183105469,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 692,
+        "y": 384.1125183105469
+      },
+      {
+        "bottom": 386.3125,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 1083.2125244140625,
+        "y": 342.3125
+      },
+      {
+        "bottom": 386.3125,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 1358.5875244140625,
+        "y": 342.3125
+      }
+    ],
+    "section": {
+      "bottom": 816.9000244140625,
+      "height": 816.9000244140625,
+      "width": 1440,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 688.9000244140625,
+      "height": 98,
+      "width": 1392,
+      "x": 24,
+      "y": 590.9000244140625
+    },
+    "smallColumns": "222px 222px 222px 222px 222px 222px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 788.9000244140625,
+      "height": 82,
+      "width": 1392,
+      "x": 24,
+      "y": 706.9000244140625
+    },
+    "viewport": 1440
+  },
+  {
+    "cards": [
+      {
+        "bottom": 602.6875,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 80,
+        "y": 168.28750610351562
+      },
+      {
+        "bottom": 602.6875,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 396.1750183105469,
+        "y": 168.28750610351562
+      },
+      {
+        "bottom": 602.6875,
+        "height": 440.3999938964844,
+        "width": 335.3000183105469,
+        "x": 712.3500366210938,
+        "y": 162.28750610351562
+      },
+      {
+        "bottom": 602.6875,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 1064.4500732421875,
+        "y": 168.28750610351562
+      },
+      {
+        "bottom": 602.6875,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 1380.625,
+        "y": 168.28750610351562
+      }
+    ],
+    "container": {
+      "bottom": 815.4875011444092,
+      "height": 783.8125,
+      "width": 1600,
+      "x": 80,
+      "y": 31.67500114440918
+    },
+    "fontSizes": {
+      "category": "27.52px",
+      "component": "13.6px",
+      "small": "14.944px",
+      "title": "52px"
+    },
+    "largeColumns": "299.375px 299.375px 335.3px 299.375px 299.375px",
+    "listTops": [
+      442.6875,
+      442.6875,
+      442.6875,
+      442.6875
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 442.6875,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 319.7749938964844,
+        "y": 398.6875
+      },
+      {
+        "bottom": 442.6875,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 635.9500122070312,
+        "y": 398.6875
+      },
+      {
+        "bottom": 502.8875122070313,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 852,
+        "y": 446.8875122070313
+      },
+      {
+        "bottom": 442.6875,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 1304.2249755859375,
+        "y": 398.6875
+      },
+      {
+        "bottom": 442.6875,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 1620.4000244140625,
+        "y": 398.6875
+      }
+    ],
+    "section": {
+      "bottom": 843.4874877929688,
+      "height": 843.4874877929688,
+      "width": 1760,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 715.0875244140625,
+      "height": 98,
+      "width": 1600,
+      "x": 80,
+      "y": 617.0875244140625
+    },
+    "smallColumns": "256px 256px 256px 256px 256px 256px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 815.4874877929688,
+      "height": 82,
+      "width": 1600,
+      "x": 80,
+      "y": 733.4874877929688
+    },
+    "viewport": 1760
+  },
+  {
+    "cards": [
+      {
+        "bottom": 605.0124969482422,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 159.60000610351562,
+        "y": 170.6125030517578
+      },
+      {
+        "bottom": 605.0124969482422,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 475.7749938964844,
+        "y": 170.6125030517578
+      },
+      {
+        "bottom": 605.0124969482422,
+        "height": 440.3999938964844,
+        "width": 335.3000183105469,
+        "x": 791.9500122070312,
+        "y": 164.6125030517578
+      },
+      {
+        "bottom": 605.0124969482422,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 1144.050048828125,
+        "y": 170.6125030517578
+      },
+      {
+        "bottom": 605.0124969482422,
+        "height": 434.3999938964844,
+        "width": 299.375,
+        "x": 1460.2249755859375,
+        "y": 170.6125030517578
+      }
+    ],
+    "container": {
+      "bottom": 817.8125,
+      "height": 783.8125,
+      "width": 1600,
+      "x": 159.60000610351562,
+      "y": 34
+    },
+    "fontSizes": {
+      "category": "27.52px",
+      "component": "13.6px",
+      "small": "14.944px",
+      "title": "52px"
+    },
+    "largeColumns": "299.375px 299.375px 335.3px 299.375px 299.375px",
+    "listTops": [
+      445.0125122070313,
+      445.0125122070313,
+      445.0125122070313,
+      445.0125122070313
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 445.0125122070313,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 399.375,
+        "y": 401.0125122070313
+      },
+      {
+        "bottom": 445.0125122070313,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 715.5499877929688,
+        "y": 401.0125122070313
+      },
+      {
+        "bottom": 505.2124938964844,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 931.6000366210938,
+        "y": 449.2124938964844
+      },
+      {
+        "bottom": 445.0125122070313,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 1383.8250732421875,
+        "y": 401.0125122070313
+      },
+      {
+        "bottom": 445.0125122070313,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 1700,
+        "y": 401.0125122070313
+      }
+    ],
+    "section": {
+      "bottom": 845.8125,
+      "height": 845.8125,
+      "width": 1919.2000732421875,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 717.4125366210938,
+      "height": 98,
+      "width": 1600,
+      "x": 159.60000610351562,
+      "y": 619.4125366210938
+    },
+    "smallColumns": "256px 256px 256px 256px 256px 256px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 817.8125,
+      "height": 82,
+      "width": 1600,
+      "x": 159.60000610351562,
+      "y": 735.8125
+    },
+    "viewport": 1919
+  },
+  {
+    "cards": [
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.7875061035156,
+        "x": 60,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 415.6875,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 492,
+        "width": 377.2124938964844,
+        "x": 771.3875122070312,
+        "y": 178.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 1167.5,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 1523.2000732421875,
+        "y": 184.8000030517578
+      }
+    ],
+    "container": {
+      "bottom": 906.4000244140624,
+      "height": 872.4000244140625,
+      "width": 1800,
+      "x": 60,
+      "y": 34
+    },
+    "fontSizes": {
+      "category": "30.96px",
+      "component": "15px",
+      "small": "16px",
+      "title": "58px"
+    },
+    "largeColumns": "336.788px 336.8px 377.212px 336.8px 336.8px",
+    "listTops": [
+      493.3999938964844,
+      493.3999938964844,
+      493.3999938964844,
+      493.3999938964844
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 335.0874938964844,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 690.7875366210938,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 560,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 932,
+        "y": 504
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 1442.5999755859375,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 1798.300048828125,
+        "y": 449.3999938964844
+      }
+    ],
+    "section": {
+      "bottom": 934.4000244140624,
+      "height": 934.4000244140624,
+      "width": 1920,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 795.6999893188477,
+      "height": 108.9000015258789,
+      "width": 1800,
+      "x": 60,
+      "y": 686.7999877929688
+    },
+    "smallColumns": "288.325px 288.337px 288.325px 288.337px 288.337px 288.325px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 906.4000244140624,
+      "height": 90,
+      "width": 1800,
+      "x": 60,
+      "y": 816.4000244140625
+    },
+    "viewport": 1920
+  },
+  {
+    "cards": [
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.7875061035156,
+        "x": 380,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 735.6875,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 492,
+        "width": 377.2124938964844,
+        "x": 1091.3875732421875,
+        "y": 178.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 1487.5,
+        "y": 184.8000030517578
+      },
+      {
+        "bottom": 670.8000030517578,
+        "height": 486,
+        "width": 336.8000183105469,
+        "x": 1843.2000732421875,
+        "y": 184.8000030517578
+      }
+    ],
+    "container": {
+      "bottom": 906.4000244140624,
+      "height": 872.4000244140625,
+      "width": 1800,
+      "x": 380,
+      "y": 34
+    },
+    "fontSizes": {
+      "category": "30.96px",
+      "component": "15px",
+      "small": "16px",
+      "title": "58px"
+    },
+    "largeColumns": "336.788px 336.8px 377.212px 336.8px 336.8px",
+    "listTops": [
+      493.3999938964844,
+      493.3999938964844,
+      493.3999938964844,
+      493.3999938964844
+    ],
+    "overflow": [],
+    "pageOverflow": false,
+    "roundTargets": [
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Laptop",
+        "width": 44,
+        "x": 655.0875244140625,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục PC và All In One",
+        "width": 44,
+        "x": 1010.7875366210938,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 560,
+        "height": 56,
+        "label": "Khám phá danh mục Linh kiện PC",
+        "width": 56,
+        "x": 1252,
+        "y": 504
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Màn hình và TV",
+        "width": 44,
+        "x": 1762.5999755859375,
+        "y": 449.3999938964844
+      },
+      {
+        "bottom": 493.3999938964844,
+        "height": 44,
+        "label": "Khám phá danh mục Gaming Gear",
+        "width": 44,
+        "x": 2118.300048828125,
+        "y": 449.3999938964844
+      }
+    ],
+    "section": {
+      "bottom": 934.4000244140624,
+      "height": 934.4000244140624,
+      "width": 2560,
+      "x": 0,
+      "y": 0
+    },
+    "small": {
+      "bottom": 795.6999893188477,
+      "height": 108.9000015258789,
+      "width": 1800,
+      "x": 380,
+      "y": 686.7999877929688
+    },
+    "smallColumns": "288.325px 288.337px 288.325px 288.337px 288.337px 288.325px",
+    "smallOverlaps": [
+      {
+        "number": 6,
+        "overlap": false
+      },
+      {
+        "number": 7,
+        "overlap": false
+      },
+      {
+        "number": 8,
+        "overlap": false
+      },
+      {
+        "number": 9,
+        "overlap": false
+      },
+      {
+        "number": 10,
+        "overlap": false
+      },
+      {
+        "number": 11,
+        "overlap": false
+      }
+    ],
+    "strip": {
+      "bottom": 906.4000244140624,
+      "height": 90,
+      "width": 1800,
+      "x": 380,
+      "y": 816.4000244140625
+    },
+    "viewport": 2560
+  }
+]

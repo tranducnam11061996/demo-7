@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "number": 1,
+      "id": "section-1",
+      "name": "Header và Laptop AI",
+      "status": "approved",
+      "spec": "docs/specs/section-1.md",
+      "approval": {
+        "evidence": "Người dùng: tốt lắm, triển khai toàn bộ và review chung sau chỉnh menu."
+      }
+    },
+    {
+      "number": 2,
+      "id": "section-2",
+      "name": "Danh mục nổi bật",
+      "status": "in_review",
+      "spec": "docs/specs/section-2.md",
+      "approval": null
+    },
+    {
+      "number": 3,
+      "id": "section-3",
+      "name": "Chọn máy theo nghề",
+      "status": "in_review",
+      "spec": "docs/specs/section-3.md",
+      "approval": null
+    },
+    {
+      "number": 4,
+      "id": "section-4",
+      "name": "Deal Center",
+      "status": "in_review",
+      "spec": "docs/specs/section-4.md",
+      "approval": null
+    },
+    {
+      "number": 5,
+      "id": "section-5",
+      "name": "Laptop – MacBook – Tablet",
+      "status": "in_review",
+      "spec": "docs/specs/section-5.md",
+      "approval": null
+    },
+    {
+      "number": 6,
+      "id": "section-6",
+      "name": "PC và AI Workstation",
+      "status": "in_review",
+      "spec": "docs/specs/section-6.md",
+      "approval": null
+    },
+    {
+      "number": 7,
+      "id": "section-7",
+      "name": "PC Builder",
+      "status": "approved",
+      "spec": "docs/specs/section-7.md",
+      "approval": {
+        "evidence": "Phản hồi người dùng: tốt lắm; kế hoạch xác nhận section-7 đã nghiệm thu."
+      }
+    },
+    {
+      "number": 8,
+      "id": "section-8",
+      "name": "Linh kiện máy tính",
+      "status": "in_review",
+      "spec": "docs/specs/section-8.md",
+      "approval": null
+    },
+    {
+      "number": 9,
+      "id": "section-9",
+      "name": "Màn hình",
+      "status": "in_review",
+      "spec": "docs/specs/section-9.md",
+      "approval": null
+    },
+    {
+      "number": 10,
+      "id": "section-10",
+      "name": "Console",
+      "status": "in_review",
+      "spec": "docs/specs/section-10.md",
+      "approval": null
+    },
+    {
+      "number": 11,
+      "id": "section-11",
+      "name": "Gaming Gear",
+      "status": "in_review",
+      "spec": "docs/specs/section-11.md",
+      "approval": null
+    },
+    {
+      "number": 12,
+      "id": "section-12",
+      "name": "Mạng và lưu trữ",
+      "status": "in_review",
+      "spec": "docs/specs/section-12.md",
+      "approval": null
+    },
+    {
+      "number": 13,
+      "id": "section-13",
+      "name": "Văn phòng và doanh nghiệp",
+      "status": "in_review",
+      "spec": "docs/specs/section-13.md",
+      "approval": null
+    },
+    {
+      "number": 14,
+      "id": "section-14",
+      "name": "Smart Home",
+      "status": "in_review",
+      "spec": "docs/specs/section-14.md",
+      "approval": null
+    },
+    {
+      "number": 15,
+      "id": "section-15",
+      "name": "Dịch vụ PC",
+      "status": "in_review",
+      "spec": "docs/specs/section-15.md",
+      "approval": null
+    },
+    {
+      "number": 16,
+      "id": "section-16",
+      "name": "Phụ kiện",
+      "status": "in_review",
+      "spec": "docs/specs/section-16.md",
+      "approval": null
+    },
+    {
+      "number": 17,
+      "id": "section-17",
+      "name": "Hậu mãi",
+      "status": "in_review",
+      "spec": "docs/specs/section-17.md",
+      "approval": null
+    },
+    {
+      "number": 18,
+      "id": "section-18",
+      "name": "Thu cũ đổi mới",
+      "status": "in_review",
+      "spec": "docs/specs/section-18.md",
+      "approval": null
+    },
+    {
+      "number": 19,
+      "id": "section-19",
+      "name": "HACOM in Numbers",
+      "status": "in_review",
+      "spec": "docs/specs/section-19.md",
+      "approval": null
+    },
+    {
+      "number": 20,
+      "id": "section-20",
+      "name": "Kiến thức",
+      "status": "in_review",
+      "spec": "docs/specs/section-20.md",
+      "approval": null
+    },
+    {
+      "number": 21,
+      "id": "section-21",
+      "name": "Video",
+      "status": "in_review",
+      "spec": "docs/specs/section-21.md",
+      "approval": null
+    },
+    {
+      "number": 22,
+      "id": "section-22",
+      "name": "Cộng đồng",
+      "status": "in_review",
+      "spec": "docs/specs/section-22.md",
+      "approval": null
+    },
+    {
+      "number": 23,
+      "id": "section-23",
+      "name": "Khách hàng",
+      "status": "in_review",
+      "spec": "docs/specs/section-23.md",
+      "approval": null
+    },
+    {
+      "number": 24,
+      "id": "section-24",
+      "name": "Năm kênh khám phá",
+      "status": "in_review",
+      "spec": "docs/specs/section-24.md",
+      "approval": null
+    },
+    {
+      "number": 25,
+      "id": "section-25",
+      "name": "Footer và showroom",
+      "status": "in_review",
+      "spec": "docs/specs/section-25.md",
+      "approval": null
+    }
+  ],
+  "reviewMode": "combined"
+}

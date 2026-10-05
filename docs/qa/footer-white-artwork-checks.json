@@ -1,0 +1,137 @@
+[
+  {
+    "images": [
+      {
+        "alt": "Laptop",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "PC",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "Linh kiện",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Màn hình",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Gaming Gear",
+        "background": "rgb(255, 255, 255)"
+      }
+    ],
+    "overflow": 0,
+    "overlap": 0,
+    "width": 320
+  },
+  {
+    "images": [
+      {
+        "alt": "Laptop",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "PC",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "Linh kiện",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Màn hình",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Gaming Gear",
+        "background": "rgb(255, 255, 255)"
+      }
+    ],
+    "overflow": 0,
+    "overlap": 0,
+    "width": 390
+  },
+  {
+    "images": [
+      {
+        "alt": "Laptop",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "PC",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "Linh kiện",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Màn hình",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Gaming Gear",
+        "background": "rgb(255, 255, 255)"
+      }
+    ],
+    "overflow": 0,
+    "overlap": 0,
+    "width": 1280
+  },
+  {
+    "images": [
+      {
+        "alt": "Laptop",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "PC",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "Linh kiện",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Màn hình",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Gaming Gear",
+        "background": "rgb(255, 255, 255)"
+      }
+    ],
+    "overflow": 0,
+    "overlap": 0,
+    "width": 1440
+  },
+  {
+    "images": [
+      {
+        "alt": "Laptop",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "PC",
+        "background": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "alt": "Linh kiện",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Màn hình",
+        "background": "rgb(255, 255, 255)"
+      },
+      {
+        "alt": "Gaming Gear",
+        "background": "rgb(255, 255, 255)"
+      }
+    ],
+    "overflow": 0,
+    "overlap": 0,
+    "width": 1920
+  }
+]
