@@ -50,12 +50,11 @@
  .section-1 .s1-layout { display:grid; grid-template-columns:270px minmax(0,1fr); gap:14px; }
  .section-1 .s1-catalog { background:#fff; border-radius:0 0 6px 6px; box-shadow:0 3px 10px #08154412; margin-top:-14px; z-index:1; align-self:start; min-width:0; }
  .section-1 .s1-catalog ol { margin:0; padding:0 8px; list-style:none; }
- .section-1 .s1-catalog a { display:grid; grid-template-columns:20px 16px minmax(0,1fr) 8px; gap:5px; align-items:center; min-height:32px; font-size:13px; border-bottom:1px solid #eef2f9; }
+ .section-1 .s1-catalog a { display:grid; grid-template-columns:16px minmax(0,1fr) 8px; gap:5px; align-items:center; min-height:32px; font-size:13px; border-bottom:1px solid #eef2f9; }
  .section-1 .s1-catalog li:last-child a { border:0; }
  .section-1 .s1-catalog a:hover { background:#eef5ff; color:#ef0028; }
  .section-1 .s1-catalog i { text-align:center; font-size:16px; }
  .section-1 .s1-catalog i:last-child { font-size:12px; }
- .section-1 .s1-number { color:#354784; }
  .section-1 .s1-bannerarea { display:grid; grid-template-columns:minmax(0,1fr) 290px; gap:14px; min-width:0; padding-top:8px; }
  .section-1 .s1-hero { position:relative; isolation:isolate; min-width:0; min-height:522px; overflow:hidden; border-radius:7px; background:radial-gradient(ellipse at 80% 90%,#0764cc88,transparent 65%),linear-gradient(130deg,#010713,#031b47 70%,#0359a0); color:white; }
  .section-1 .s1-herocopy { position:relative; z-index:2; padding:28px 25px 55px; }
